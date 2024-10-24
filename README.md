@@ -13,8 +13,8 @@
 
 ## Requirements
 
-- Windows OS (7, 8, 10, 11)
-- Visual Studio (or any C++ IDE supporting Windows API)
+- Windows OS (10, 11)
+- Visual Studio (or any C# IDE supporting Windows API)
 - Admin privileges to inject into protected processes
 - Target process and DLL compatibility (32-bit DLL for 32-bit processes, etc.)
 
