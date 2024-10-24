@@ -2,6 +2,8 @@
 
 **LNjector** is a lightweight Windows DLL injector designed to inject dynamic-link libraries (DLL) into running processes. This project serves educational and testing purposes and should be used responsibly.
 
+<img src="https://github.com/DataSearchers/LNjector---Windows-DLL-injector/blob/main/LNjector.png" width="200" />
+
 ## Features
 
 - Supports both 32-bit and 64-bit processes.
